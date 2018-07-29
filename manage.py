@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#!/Users/austinhudson/anaconda3/envs/graphMWvenv/bin/python
+
 import os
 import sys
 
